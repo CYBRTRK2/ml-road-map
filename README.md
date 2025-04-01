@@ -1,4 +1,4 @@
-![ml road map](assets/road_map_turbo.jpeg)
+![ml road map](assets/road_map.png)
 
 <p align="center">🌟<strong>This guide is free!</strong> Support it (and me!) for free:🌟</p>
 
