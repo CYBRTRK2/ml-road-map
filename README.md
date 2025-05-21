@@ -15,7 +15,7 @@
   </a>
 </p>
 
-Welcome to the **Society's Backend repo**. [Society's Backend](https://societysbackend.com/) is a newsletter to understand machine learning engineering and gain confidence building with AI. This repo will contain all Society's Backend resources for understanding machine learning engineering and building with AI. Currently included are:
+Welcome to the **Society's Backend repo: Machine learning for software engineers**. [Society's Backend](https://societysbackend.com/) is a newsletter to understand machine learning engineering and gain confidence building with AI. This repo will contain all Society's Backend resources for understanding machine learning engineering and building with AI. Currently included are:
 
 * [The ML Road Map](ml-roadmap/): Learn ML fundamentals for free from high-quality resources.
 * [MNIST on MLX](mnist-on-mlx/): Train a simple model on Apple's machine learning framework designed for Apple silicon.
