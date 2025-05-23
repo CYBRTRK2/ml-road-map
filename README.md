@@ -4,7 +4,7 @@
   <a href="https://github.com/loganthorneloe/ml-road-map">
     <img src="https://img.shields.io/github/stars/loganthorneloe/ml-road-map?style=social" alt="Star on GitHub">
   </a>
-  <a href="https://societysbackend.com">
+  <a href="https://mlforswes.com">
     <img src="https://img.shields.io/badge/Subscribe-More%20learning%20resources-orange?style=social&logo=substack" alt="Get all resources from Society's Backend">
   </a>
   <a href="https://twitter.com/loganthorneloe">
