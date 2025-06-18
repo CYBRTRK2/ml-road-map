@@ -1,4 +1,4 @@
-# The Machine Learner's Library
+# 📚 The Machine Learner's Library
 
 These are the essential books machine learning engineers should read to learn the topics they need to know about building machine learning systems. This list is comprehensive but purposefully kept short to list only what you ***need***.
 
