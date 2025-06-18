@@ -18,6 +18,7 @@
 Welcome to the **Machine Learning for Software Engineers** repo! [ML for SWEs](https://mlforswes.com/) is a newsletter to understand machine learning engineering and gain confidence building with AI. This repo will contain all hands-on newsletter resources for understanding machine learning engineering and building with AI. Currently included are:
 
 * [The ML Road Map](ml-roadmap/): Learn ML fundamentals for free from high-quality resources.
+* [The Machine Learner's Library](mle-library/): Essential books machine learning engineers should read to learn the topics they need to know about building machine learning systems.
 * [MNIST on MLX](mnist-on-mlx/): Train a simple model on Apple's machine learning framework designed for Apple silicon.
 
 More to come in the future. I plan to write many more articles with accompanying hands-on activities.
