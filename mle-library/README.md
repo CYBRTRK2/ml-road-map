@@ -72,10 +72,10 @@ These are the essential books machine learning engineers should read to learn th
 
 **Technical interview success**
 
-- **[Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)** by Gayle Laakmann McDowell
-  - Essential coding interview preparation
-  - 189 programming questions and solutions
-  - Written by former Google/Microsoft/Apple engineer
+- **[Elements of Programming Interviews in Python](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949)** by Adnan Aziz, Tsung-Hsien Lee, and Amit Prakash
+  - Essential coding interview preparation (make sure to use the language you're interviewing in)
+  - Over 250 programming questions and solutions
+  - Written by former Google/Microsoft/Facebook engineers
 
 - **[System Design Interview](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)** by Alex Xu
   - Systematic approach to system design interviews
